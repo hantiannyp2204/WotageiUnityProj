@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"393571d4-2ffc-4535-9a27-6d7b59e86319\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Orange Crystal In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"8d364ec0-9bd5-4423-8958-0f7940947735\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Orange Translucent In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"bf1894cb-2320-4994-9e20-b550afb515c9\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Lightblue Crystal In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"f24be1ce-2a7e-49dd-914d-279bedcd605d\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Lightblue Translucent In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"551e5e60-d1c9-4625-bfa5-5220c2639f0a\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Cyan Crystal In Stock\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"563e65de-6864-4e54-84ba-6fb82ad5b64a\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Cyan Translucent In Stock\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"2964b6d0-a6e4-488a-9dc2-ca3b2af19d1b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Pink Crystal In Stock\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3cda6820-131e-4073-9d66-e6166b851890\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Pink Translucent In Stock\",\r\n     
+    \"type\": \"bool\",\r\n      \"value\": true\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"393571d4-2ffc-4535-9a27-6d7b59e86319\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Orange Crystal In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"8d364ec0-9bd5-4423-8958-0f7940947735\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Orange Translucent In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"bf1894cb-2320-4994-9e20-b550afb515c9\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Lightblue Crystal In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"f24be1ce-2a7e-49dd-914d-279bedcd605d\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Lightblue Translucent In Stock\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"551e5e60-d1c9-4625-bfa5-5220c2639f0a\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Cyan Crystal In Stock\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"563e65de-6864-4e54-84ba-6fb82ad5b64a\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Cyan Translucent In Stock\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"2964b6d0-a6e4-488a-9dc2-ca3b2af19d1b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Pink Crystal In Stock\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3cda6820-131e-4073-9d66-e6166b851890\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Pink Translucent In Stock\",\r\n     
+    \"type\": \"bool\",\r\n      \"value\": true\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"78895a8f-5b41-48d9-9114-e737e7afd899\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"f50559e0-8255-4678-8e2e-9efa272f4986\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-11-17T18:59:19Z\",\r\n    \"updatedAt\":
+    \"2023-11-17T18:59:19Z\"\r\n  }\r\n]"
